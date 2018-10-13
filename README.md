@@ -4,7 +4,7 @@ Git practice with jsdevbd (b1) team
 ## Git Exercise
 
 1. Clone the [git-learn](git@github.com:jsdevbd/git-learn.git) repository.
-2. Create a new branch called `<your-name>1` (e.g. sajib1) from `master` branch.
+2. Create a new branch called `<your-name>1` (e.g. sajib1) from `master` branch. Checkout to `<your-name>1` branch.
 3. Create a file named `index.html` with following content:
     ```
     <!DOCTYPE html>
